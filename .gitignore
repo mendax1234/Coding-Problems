@@ -30,7 +30,7 @@
 
 # Executables
 *.exe
-**/*.exe
+!*/      # Allows folders
 *.out
 *.app
 *.i*86
