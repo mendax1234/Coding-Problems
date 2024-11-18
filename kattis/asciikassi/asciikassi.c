@@ -38,4 +38,3 @@ int main()
   print_mid(n);
   print_top_bottom(n);
 }
-
