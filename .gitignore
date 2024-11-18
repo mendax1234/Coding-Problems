@@ -1,3 +1,13 @@
+# Ignore all files by default
+*
+
+# Allow .c and .h files
+!*.c
+!*.h
+
+# Allow all directories to include .c and .h files in subfolders
+!*/
+
 # Prerequisites
 *.d
 
@@ -30,7 +40,6 @@
 
 # Executables
 *.exe
-!*/      # Allows folders
 *.out
 *.app
 *.i*86
