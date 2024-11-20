@@ -4,6 +4,7 @@
 # Allow .c and .h files
 !*.c
 !*.h
+!*.cpp
 
 # Allow all directories to include .c and .h files in subfolders
 !*/
